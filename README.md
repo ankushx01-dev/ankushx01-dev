@@ -7,9 +7,10 @@
 <p align="center">
   <samp>
   <pre>
-    「 2nd Year CSE (AI & ML) Student 」
-    「 Full Stack Developer | Python | DSA 」
-    「 Building Real-World Projects  」
+    -3rd Year CSE (AI & ML) Student 
+    -Full Stack Developer | Python | DSA 
+    -Passionate About Building Real-World Projects
+    -Himachal Pradesh , INDIA
     </pre>
   </samp>
 </p>
