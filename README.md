@@ -1,5 +1,3 @@
-
-
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=600&size=48&duration=3500&pause=500&color=FFFFFF&center=true&vCenter=true&repeat=true&width=1000&height=100&lines=Hello+World!+I+am+Ankush+Rana" />
 </div>
@@ -43,6 +41,7 @@
 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
 
 <br>
 
